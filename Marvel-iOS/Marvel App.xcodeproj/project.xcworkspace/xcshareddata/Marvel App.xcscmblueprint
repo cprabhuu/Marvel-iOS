@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "D55C23F0E23D722217F82067DB17572873EAF60B",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "D55C23F0E23D722217F82067DB17572873EAF60B" : 0,
+    "9DF8258B98E74EB42D6DF12ABFFE5AEDE8CBE79D" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "899D9CCF-477B-4566-A775-CB133CE49CAD",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "D55C23F0E23D722217F82067DB17572873EAF60B" : "Marvel-iOS\/",
+    "9DF8258B98E74EB42D6DF12ABFFE5AEDE8CBE79D" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Marvel App",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Marvel-iOS\/Marvel App.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/cprabhuu\/Marvel",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "9DF8258B98E74EB42D6DF12ABFFE5AEDE8CBE79D"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/cprabhuu\/Marvel-iOS.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "D55C23F0E23D722217F82067DB17572873EAF60B"
+    }
+  ]
+}

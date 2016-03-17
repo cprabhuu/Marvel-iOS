@@ -1,0 +1,24 @@
+/* 
+  Localizable.strings
+  Marvel App
+
+  Created by Prabhu Chandrasekaran 14/03/2016.
+  Copyright © 2016 My Own Company. All rights reserved.
+*/
+
+//__ Error
+"The marvel server is not responding" = "The marvel server is not responding :(. Please try again";
+"Error server title" = "Ups! :..(";
+
+//__ Searching
+"Search" = "Search";
+"Searching characters" = "Searching characters";
+
+//__ Characters messages
+"Loading characters" = "Loading characters";
+"Characters no results" = "No results";
+
+//__ Character messages
+"Loading comics" = "Loading comics";
+"Comics related" = "Comics related";
+"Comics no results" = "No comics related";
